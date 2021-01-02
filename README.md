@@ -1,3 +1,3 @@
-# COM6509_A1
+# ML assignment
 
 Prediciton of Claim Amount of dataset Claim Prediction
